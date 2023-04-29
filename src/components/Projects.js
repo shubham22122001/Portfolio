@@ -16,9 +16,9 @@ const Projects = () => {
         },
         {
             id: '2',
-            title: 'Medical Website',
-            description: "This project involved working with a team to develop a website that could provide useful information and resources for patients and healthcare professionals. We were responsible for designing and implementing the website's features and functionality, which including enclosing  all of the medical information inside a QR Code so that doctors can have information of the patient on scanning that QR.",
-            link: 'https://github.com/Mehulparekh144/MedWay'
+            title: 'Finance master',
+            description: "In this project, I built a full-stack Finance Dashboard App using the MERN (MongoDB, Express.js, React, Node.js) stack, along with various other technologies such as Typescript, Material-UI, and Machine Learning algorithms. The app allows users to visualize their financial data through interactive charts, and also provides predictive insights using ML algorithms. I also implemented user authentication, data storage and retrieval using MongoDB. Through this project, I gained experience in developing scalable and interactive full-stack web applications.",
+            link: 'https://github.com/shubham22122001/Finance_Master_MERN/tree/master'
 
         },
         {
