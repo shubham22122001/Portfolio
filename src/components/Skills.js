@@ -17,6 +17,8 @@ const Skills = () => {
                                 <li className="list-group-item">C</li>
                                 <li className="list-group-item">HTML</li>
                                 <li className="list-group-item">CSS</li>
+                                <li className="list-group-item">Java</li>
+
                             </ul>
                         </div>
                     </div>
