@@ -74,7 +74,7 @@ const Projects = () => {
                                 <h5 className="projectTitle card-title">{project.title}</h5>
                                 <p className="projectDesc card-text">{project.description}</p>
                                 <button className="btn projectBtn" ><a href={project.link} target
-                                    ="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i> View Code</a></button>
+                                    ="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i> View Code/App</a></button>
                             </div>
                         </div>
 
