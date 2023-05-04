@@ -18,7 +18,7 @@ const Projects = () => {
             id: '2',
             title: 'Finance master',
             description: "In this project, I built a full-stack Finance Dashboard App using the MERN (MongoDB, Express.js, React, Node.js) stack, along with various other technologies such as Typescript, Material-UI, and Machine Learning algorithms. The app allows users to visualize their financial data through interactive charts, and also provides predictive insights using ML algorithms. I also implemented user authentication, data storage and retrieval using MongoDB. Through this project, I gained experience in developing scalable and interactive full-stack web applications.",
-            link: 'https://github.com/shubham22122001/Finance_Master_MERN'
+            link: 'https://finance-master-q0xjxseuf-shubham22122001.vercel.app'
 
         },
         {
